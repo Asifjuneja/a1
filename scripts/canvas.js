@@ -1,3 +1,5 @@
+// CREATED BY As_iF ON 25.6.2019
+
 var space;
 
 function floatySpace() {
@@ -77,3 +79,5 @@ $(window).resize(function(){
   $('canvas').remove();
   floatySpace();
 });
+
+// CREATED BY As_iF ON 25.6.2019

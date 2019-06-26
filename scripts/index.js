@@ -1,3 +1,5 @@
+// CREATED BY As_iF ON 25.6.2019
+
 $(function() {
 
   var isMobile;
@@ -168,3 +170,5 @@ $(function() {
   })
 
 });
+
+// CREATED BY As_iF ON 25.6.2019
